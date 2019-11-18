@@ -29,4 +29,11 @@ You are likely to have three major roles as a communicator when:
 * For example, when writing a proposal for your supervisor, you might think of that person's job responsibilities, the level of detail he would be interested in, and personal factors such as history with the organization and attitudes toward your ideas. These factors help you decide what kind of document to write, how to structure it, how much detail to include, and what sentence style and vocabulary to use.
 * **Your writing might also be read by people you never intended as your audience: managers and executives in your organization, the public, or the press. Avoid writing anything that will embarass you or your organization if other audience read it.**
 
-page 17
+# Understanding Ethical and Legal Considerations
+* right, justice, utility, care
+* Your ethical oblication: to your employer, to the public, and to the environment.
+* Obligation to your employer: competence and diligence. Generoisity, honesty and candor, confidentiality
+* Your legal obligation: copyright law, trademark law, contract law
+
+
+page 40
