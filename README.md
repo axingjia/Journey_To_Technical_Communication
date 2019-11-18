@@ -35,5 +35,9 @@ You are likely to have three major roles as a communicator when:
 * Obligation to your employer: competence and diligence. Generoisity, honesty and candor, confidentiality
 * Your legal obligation: copyright law, trademark law, contract law
 
+# Writing Technical Documents 
+* Planning, drafting, revising, editing, and proofreading
 
-page 40
+SKIM
+
+page 56
