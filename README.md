@@ -40,4 +40,48 @@ You are likely to have three major roles as a communicator when:
 
 SKIM
 
-page 56
+# Writing Collaboratively 
+
+SKIM
+
+# Analyzing Your Audience and Purpose
+
+* name 
+* job title
+* kind of reader: primary or secondary
+* education
+* professional experience
+* job responsibility
+* personal characteristics
+* personal preferences
+* cultural characteristics
+* attitude toward the writer
+* attitude toward the subject
+* expectation about the documents
+* Expectation about the document 
+* reasons for reading the document 
+* way of reading the document: skim it, study it, read a portion
+* reading skill 
+* reader's physical environment 
+ 
+* interview people, read about them, and read documents they have written.
+ 
+##### Culture Variable
+SKIM
+
+#### Determining Your Purpose
+* Communicating verbs: aurthoize, define, describe, explain, illustrate, inform, outline, present, review, summarize
+* Convincing verbs: assess, evaluate, forecast, propose, recommend, request
+* gaining management's approval: before you actually start to write an outline or gather the information you need, spend another 10 or 15 mintues making sure your primary reader agrees with your thinking by submitting to your supervisor a brief description of your plans. You don't want to waste days or even weeks working on a document that won't fulfill its purose. If you have misunderstood what your supervisor wants, it is far easier to fix the problem at this early stage.
+
+Here is an example of the description you might submit to your boss about the CAD's equipment. In composing this description of her plan, the writer drew on audience profile sheets for her two principle readers. She describes a logical, rational strategy for proposing the equipment purchase.
+
+Juan:
+Please tell me if you think this is a good approach for the proposal on CAD equipment.(the purpose of the memo)    
+Outright purchase of the complete system will cost more than $1,000, so you would have to approve it and send it on for Tina’s approval. (I’ll provide leasing costs as well.) I want to show that our CAD hardware and software are badly out­of­date and need to be replaced. I’ll be thorough in recommending new equipment, with independent evaluations in the literature, as well as product demonstrations. The proposal should specify what the current equipment is costing us and show how much we can save by buying the recommended system.
+(a statement of the audience of the proposal, a statement of the purpose, follwed by early statement of the scope of the document)
+
+I’ll call you later today to get your reaction before I begin researching what’s available.
+Renu (a statement of how the writer intends to follow up on this memo)
+
+page 111
