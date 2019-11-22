@@ -85,3 +85,86 @@ I’ll call you later today to get your reaction before I begin researching what
 Renu (a statement of how the writer intends to follow up on this memo)
 
 page 111
+
+##### Revising Information For a New Audience and Purpose
+SKIM 
+
+#Researching Your Subject
+
+## Chapter 6: Understanding the Research Process 
+* Analyze Your Audience: Who are your most important readers? What are their personal characteristics, their attitude toward your subject, their motivations for reading? If you are writing to an expert audience that might be skeptical about your message, you need to do a lot of research to gather the evidence for a convincing argument ->
+* Analyze Your Purpose: Why are you writing? Understanding your purpose helps you understand the types of information reader will expect. Think in terms of what you want your readers to know or believe or do after they finish reading your document. ->
+* Analyze Your Subject: What do you already know about your subject? What do you still need to find out? Using techniques such as freewriting and brainstorming. You can determine those aspects of the subject you need to investigate->
+* Visualize the deliverable: What application will you need to deliver: A proposal, a report, a website? What kind of oral presentation will you need to deliver? ->
+* Work out a schedule and a budget for the project: When is the deliverable--the document of the presentation--due? Do you have a budget for phone calls, database searches, or travel to libraries or other sites? ->
+* Determine what information will need to be part of that deliverable: Draft an outline of the contents, focusing on the kinds of information that readers will expect to see in each part 
+* Determine what information you still need to acquire: Make a list of the pieces of information you don't yet have.
+* Create questions you need to answer in your deliverable: Writing the questions in a list forces you to think carefully about your topic. One question suggests another, and soon you have a lengthy list that you need to answer ->
+* Conduct secondary research: Study journal articles and web-0based sources such as online journals, discussion boards, blogs, and podcasts.->
+* Conduct primary research: You can answer some of your questinos by consulting company records, by interviewing experts in your organization, by distributing questionnaires, and by interviewing other people in your organization and industry 
+* Evaluate your information: Once you have your information, you need to evaluate its quality: is it accurate, comprehensive, unbiased, and current?
+* Do More Research: If you the information you have acquired doesn't sufficiently answer your questions, do more research. And if you have thought of additional questions that need to be answered, do more research. When do you stop doing research? You will stop only when you think you have enough high-quality information to create the deliverable.
+
+###### Choosing Appropriate research methods
+
+SKIP, will come back later
+
+# Chapter 7: Organizing Your Information 
+* Understanding three principles for organizing technical information. Follow these three principles in organizing your information: analyze your audience and purpose. Use conventional patterns of organization. Display your organizational pattern prominently.
+
+### Analyzing Your Audience and Purpose 
+* Will your audience like the message you will present? If so, announce your main point early in th edocument. If not, consider a pattern that presents your important evidence before your main message.
+* Is your audience used to seeing a particular pattern in the kind of document you will be writing? If they are, you will probably want to use that pattern, unless you have a good reason to use a different one.
+* What is your purpose in writing the document. Do you want your audience to understand a body of infomration or to accept a point of view and perhaps act on it? One purpose might call for a brieft report without any appendixesl the other might require a detailed report, complete with appendixes.
+* If you are addressing people from other cultures, remember that organizational patterns can vary from culture to culture. If you can, study documents written by people from the culture you are addressing to see whether they favor an organizational pattern different from yours.
+
+### Using Conventional Patterns of Organization 
+* chronological pattern 
+* spatial pattern 
+* In a proposal, for example, you include a budget, which you put near the end or in an appendix.
+
+### Displaying your Organizational Pattern Prominently 
+* Create a detailed table of contents. If your document has a table of contents, including at least two levels of headings helps readers find the information they seek.
+* Use heading liberally. Heading break up the text, making your page more interesting visually. They also communicate the subject of the section and improve readers' understanding
+* Use topic sentences at the beginning of your paragraphs. The topic sentence announce the main point of a paragraph and helps the reader understand teh details that follow. 
+
+### Basic Organizational pattern
+* If you want to: explain events that occured or might occur or tasks that reader is to carry out-> Chronological or reverse chronology. For example, you describe the process used to disgnose the problem with the accounting software. Or in a resume, you describe your more-recent jobs before your less-recent ones.
+* Describe a physical object or scene, such as a device or a location->Spatial, top-to-bottom, east to west, or inside-to-outside. For example, you describe the three buildings that will make up the new production facility.
+* Explain a complex situation, such as the factors that led to a problem or the theory that underlies a process->General to specific. Understanding the big picture helps readers understand the details. For example, you explain the major changes and details of a law mandating the use of a new refrierant in cooling system 
+* Present a set of factors-> More important to less important. In technical communication, you don't want to create suspense. You want to present the most important information first. For example, when you launch an ew product, you discuss market niche, competition, and then pricing
+* Present similiarities and differences between two or more items-> Comparison and contrast. 2 options: 1. discuss all the factors related to one item, then all the factors related to the next item, and so forth; 2. discuss one factor as it relates to all the items, then another factor as it relates to all the items, and so forth. For example, you discuss the strengths and weakness of three companies bidding on a contract your company is offering.
+* Assign items to logical categories or discuss the elements that make up a single item-> Classification and partition. Classification involves placing items into categories according to some basis. Partition involves breaking a single item into its major elements. For example, you group the motors your company manufactures according to the fuel they bum: gasoline or diesel. Or you explain the operation of each major component of one of your motors. 
+* Discuss a problem you encountered, the steps you took to address the problem, and the outcome of solution-> Problem methods, solution. You can use this pattern in discussing the past, the present, or the future. Reader understand this organizational pattern because they use it in their everyday lives. For example, in describing how your company is responding to a new competitor, you discuss the problem (the recent loss in sales), the methods(how you plan to examine your product line and business practices), and the solution (which changes will help your company remain competitive)
+* Discuss the factos that led to(or will lead to) a given situation, or teh effects that a situation led to or will lead to-> Cuase and effect. You can start from causes and speculate about effects, or start with the effect and work backward to determine the causes. For example, you discuss factors that you think contributed to a recent sales dip for one of your products. Or you explain how you think changes to an existing product will affect its sales.
+
+* Long, complex argument often require several organizational patterns. For instance, one part of a document might be a causal analysis of the problem you are writing about, and another might be a comparison and contrast of two options for solving that problem
+
+###### Chronological 
+* accident report: the events in the order in which they occured 
+* background section of a report: the events that led to the present situation 
+* reference manual: how to carry out a task by describing the steps in sequence.
+* When you use chronology, you are just explaining what happened in what sequence, but you are not neccessarily explaining why or how an event occured or what it means.
+
+###### Spatal 
+* in accident report: describe the physical scene of the accident 
+* feasibility study about building a facility: describe the property on which it would be build 
+* Proposal to design a new microchip: describe the layout of the new chip 
+
+###### General to Specific 
+* In a report, an executive summary
+* In a set o instruction: Provide the general informtion about the necessary tools and materials and about safety measures before providing the step-by-step instruction 
+* In a blog: describe the topic of the blog before presenting the individual blog posts.
+
+###### More Important to Less Important
+* a feasibility study about building a facility: you present the major reasons that the proposed iste is appropriate, then the minor reasons
+* In a proposal to design a new microchip, you describe the major applications for the new chip, then the minor applications
+* For most document, it's from most important to less important because readers want to get to the bottom line as soon as possible. But sometimes it's different. People who write for readers outside their own company often reverse the more-important-to-less-important pattern because they watn to make sure their audience reads the whole disucssion. 
+* This pattern is also popular with writers who are delivering bad news. For instance, if you want to justify recommending that your organization not go ahead with a popular plan, the reverse sequence les you explain the problems with the popular plan before you present the plan you recommend. Otherwise, readers might start to formulate objections before you have had a chance to explain your position.
+* explain why one point is more important than another. Don't just say that you will be arranging the items from more important to less important. Explain why the more-important point is more important.
+
+###### Comparison and Contrast 
+* in a memo, you compare and contrast the credentials of three finalist for a job. In a proposal to design a new microchip, you compare and contrast two different strategies for designing the chip. In a feasibility report describing a legal challenge that your company faces, you compare and contrast several options for responding
+* The first step in comparing and contrasting two or more items is to determint the criteria. MY: (You need a standard and measurement to study the item)
+
+Page 168
