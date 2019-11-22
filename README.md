@@ -40,6 +40,7 @@ You are likely to have three major roles as a communicator when:
 
 SKIM
 
+
 # Writing Collaboratively 
 
 SKIM
@@ -168,3 +169,4 @@ SKIP, will come back later
 * The first step in comparing and contrasting two or more items is to determint the criteria. MY: (You need a standard and measurement to study the item)
 
 Page 168
+
