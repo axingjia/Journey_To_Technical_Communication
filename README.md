@@ -87,8 +87,6 @@ Outright purchase of the complete system will cost more than $1,000, so you woul
 I’ll call you later today to get your reaction before I begin researching what’s available.
 Renu (a statement of how the writer intends to follow up on this memo)
 
-page 111
-
 ##### Revising Information For a New Audience and Purpose
 SKIM 
 
