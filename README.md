@@ -1,5 +1,7 @@
 # Journey_To_Technical_Communication
 
+# Chapter 1: Introduction
+
 This time I will read the "Technical Communication" by Mike Markel. Let the learning begin!
 
 All technical communication documents-whether emails, reports, websites, or any of a dozen other forms--are meant to help people learn, carry out tasks, and make decisions.
@@ -29,23 +31,23 @@ You are likely to have three major roles as a communicator when:
 * For example, when writing a proposal for your supervisor, you might think of that person's job responsibilities, the level of detail he would be interested in, and personal factors such as history with the organization and attitudes toward your ideas. These factors help you decide what kind of document to write, how to structure it, how much detail to include, and what sentence style and vocabulary to use.
 * **Your writing might also be read by people you never intended as your audience: managers and executives in your organization, the public, or the press. Avoid writing anything that will embarass you or your organization if other audience read it.**
 
-# Understanding Ethical and Legal Considerations
+# Chapter 2: Understanding Ethical and Legal Considerations
 * right, justice, utility, care
 * Your ethical oblication: to your employer, to the public, and to the environment.
 * Obligation to your employer: competence and diligence. Generoisity, honesty and candor, confidentiality
 * Your legal obligation: copyright law, trademark law, contract law
 
-# Writing Technical Documents 
+# Chapter 3: Writing Technical Documents 
 * Planning, drafting, revising, editing, and proofreading
 
 SKIM
 
 
-# Writing Collaboratively 
+# Chapter 4: Writing Collaboratively 
 
 SKIM
 
-# Analyzing Your Audience and Purpose
+# Chapter 5: Analyzing Your Audience and Purpose
 
 * name 
 * job title
@@ -90,9 +92,9 @@ page 111
 ##### Revising Information For a New Audience and Purpose
 SKIM 
 
-#Researching Your Subject
+# Chapter 6: Researching Your Subject
 
-## Chapter 6: Understanding the Research Process 
+##  Understanding the Research Process 
 * Analyze Your Audience: Who are your most important readers? What are their personal characteristics, their attitude toward your subject, their motivations for reading? If you are writing to an expert audience that might be skeptical about your message, you need to do a lot of research to gather the evidence for a convincing argument ->
 * Analyze Your Purpose: Why are you writing? Understanding your purpose helps you understand the types of information reader will expect. Think in terms of what you want your readers to know or believe or do after they finish reading your document. ->
 * Analyze Your Subject: What do you already know about your subject? What do you still need to find out? Using techniques such as freewriting and brainstorming. You can determine those aspects of the subject you need to investigate->
@@ -108,7 +110,7 @@ SKIM
 
 ###### Choosing Appropriate research methods
 
-SKIP, will come back later
+SKIM
 
 # Chapter 7: Organizing Your Information 
 * Understanding three principles for organizing technical information. Follow these three principles in organizing your information: analyze your audience and purpose. Use conventional patterns of organization. Display your organizational pattern prominently.
@@ -168,5 +170,73 @@ SKIP, will come back later
 * in a memo, you compare and contrast the credentials of three finalist for a job. In a proposal to design a new microchip, you compare and contrast two different strategies for designing the chip. In a feasibility report describing a legal challenge that your company faces, you compare and contrast several options for responding
 * The first step in comparing and contrasting two or more items is to determint the criteria. MY: (You need a standard and measurement to study the item)
 
-Page 168
+SKIM
+
+# Chapter 8: Communicating Persuasively
+
+#### Understand Your Audience's Broader Goals
+* Security: People resist controversial action that might hurt their own interest. Those who might lose their jobs will likely oppose an argument that their division be eliminated, even if there are many valid reasons to support the argument. Another aspect of security is workload; most people resist an argument that calls for them to work more.
+* Recognition: Praise, don't criticize
+* Professional Growth: People want to grow on the job. They want to learn new skills and assume new duties.
+* Connectness
+
+SKIM: Isn't as detailed as rhetoric
+
+# Chapter 9: Writing Coherent Documents 
+
+When review, ask yourself: 
+* Have I left out anything in turning my outline into a draft?
+* Have I included all the elements my reader expect to see?
+* Have I organized the document logically?
+* Is the document persuasive?
+* Do I come across as reliable, honest, and helpful?
+* Have I present all the elements consistently?
+* Is the emphasis appropriate throughout the document?
+
+SKIM
+
+# Chapter 10: Writing Effective Sentences 
+SKIM 
+
+# Chapter 11: Designing Documents and Websites
+SKIM 
+
+# Chapter 12: Creating Graphics
+EXTREME SKIM
+
+# Chapter 13: Reviewing, Evaliuating, and Testing Documents and Websites
+SKIM 
+
+# Chapter 14: Writing Correspondence
+Letters, memo, emails, and microblogs
+* Letters are the most formal of the four types of correspondence and therefore most appropriate for communicating with people outside your organization or, in some formal situations, with people within your organization
+* Memo: it is moderately formal and therefore appropriate for people in your own organization 
+* email: quick, relatively informal 
+* microblog: useful for quick questions addressed to a group, most informal
+
+Common types of letters: inquiry letter, response to an inquiry, claim letter
+
+SKIM
+
+# Chapter 15: Writing Job-Application Materials
+SKIM 
+
+# Chapter 16: Writing Proposals 
+
+* Research Proposal: in a research proposal, you are promising to perform research and then provide a report about it.
+* Research proposals often lead to two other applications: progress reports and completion report
+* A goods and services proposal is an offer to supply a tangible product, a service, or some combination of the two.
+* A proposal is an argument. You msut convince readers that the future benefits will outweigh the immediate and projected costs. Bascailly, you must persuade your readers of three things: that you understand their needs; that you have already determined what you plan to do and that you are able to do it; that you are a professional and are committed to fulfilling your promises
+* Describing what you plan to do: Present a complete picture of what you would do from the first day of the project to the last. You need more than enthusiam and good faith, you need a detailed plan showing that you have already started to do the work
+
+### Writing a proposal
+The resource you need fall into three basic categories:
+* Personnel: Will you have the technical personnel, managers, and support people you will need?
+* Facilities. Will you have the facilities, or can you lease them? Can you profitably subcontract tasks to companies that have the right facilities?
+* Equipment. Do you have the right equipment? If not, can you buy it or lease it or subcontract the work? Some contracts provide for the purchase of equipment, but others don't
+Don't write the proposal unless you are confident that you can carry out the project if you get the go-ahead
+
+Page 449
+
+
 
