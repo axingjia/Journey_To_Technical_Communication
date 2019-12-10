@@ -236,5 +236,35 @@ Don't write the proposal unless you are confident that you can carry out the pro
 
 Page 449
 
+### The Structure of The Proposal 
+* Could include introduction, problem, objectives, solution, methods and resources, and management 
+* IFB, RFP
+* If the proposal is more than a few pages, provide a summary. Maybe around 250 word. Single spaced, on the title page. Define  the problem in a sentence or two. Next, describe the proposed program and provide a brief statement of your qualification and experience. Some organization wish to see the completion date and the final budget figure in the summary; others prefer that this information be presented separately on the title page along with other identifying information about the supplier and the proposed project 
+* Introduction: It should answer the following seven questions: 1. What is the problem or opportunity. use specific monetary term; 2. the purpose of the proposalThe purpose of the proposal is to describe a problem or opportunity and propose activities that will culminate in a deliverable. Be specific in explaining what you want to do; 3. the background of the problem and opportunity. Show then that you understand the problem or opportunity: the circumstances that led to its discovery, the relationships or events that will affect the problem and its solution, and so on; 4.source of information: review relevant literature, ranging from internal reports and memos to published articles or even books, so that readers will understand the context of your work. 5. the scope of the proposal. If appropriate, indicate what you are--and are not--proposing to do. 6. organization of the proposal: explain the organizational pattern; 7. key term you will use in the proposal: if you will use any specialized or unusal terms, define them in the introduction
+* Proposed Program: sometimes called the plan of work. Persuade, be specific 
+* Qualifications and experience: For a small project, include a few paragraphs describing your technical credentials and those of your co-workers. For larger projects, include the resume of the project leader, and the other important participant.
+* Budget: Godo ideas aren't good unless they're affordable. The budget section of a proposal specifies how much the proposed program will cost.
+* Appendixes: for example, supporting eltter: a testimonial to the supplier's skill and integrity written by a reputable and well-known person in the field. Two other kinds of appendixes deserve special mention: the task schedule and the description of evaluation techniques. Task Schedule: Gantt chart, network diagram. Description of Evaluation Techniques: Refer to any procedure used to determine whether the proposed program is both effective and efficient. Evaluation techniques can range from simple progress reports to sophisticated statistical analyses. Some proposals for evaluation by an outside agent, such as a consultant, a testing laboratory, or a university. Others describe evaluation techniques that the supplier will perform, such as cost benefit analyses. The issue is some think of quantitative evaluation: like production increases, while others think in terms of qualitative evaluation, such as the workmanship of a product.
+* Proposal can be presented as memos or as reports
+* There is a proposal sample SKIM
+
+# Chapter 17: Writing Informational Reports
+* Field Report, Progress report, incident report, directive, completion report, meeting minute
+* There is a sample progress report SKIM, so is incident report SKIM
+
+# Chapter 18: Writing Lab Report
+SKIP 
+
+# Chapter 19: Writing Recomendation Reports
+* What kinds of questions a recommendation report might address: 1. what should we do about problem X? 2. Should we do Function X? 3. Should we use Technology A or Technology B to do Function X? 4. We currently use Method A to Do Function X. Should we be using Method B.
+* Recommendation repot is often called a final report, project report, completion report, or simply a report
+* Most recommendation reports discuss questions of feasibility. A feasibility report answers three kinds of questions: Questions of possibility. Questions of economic wisdom. Questions of perception.
+
+SKIM
+
+# Chapter 20: Writing Definitions, Descriptions, and Instructions
+
+Page 563
+
 
 
