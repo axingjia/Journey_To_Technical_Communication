@@ -264,7 +264,33 @@ SKIM
 
 # Chapter 20: Writing Definitions, Descriptions, and Instructions
 
-Page 563
+This chapter discusses definitions, descriptions, and instructions. We need to start by defining these three terms:
+* A definition is typically a brief explanation of an item or concept using words and (sometimes) graphics. You could write a definition of file format or of regenerative braking.
+* A description is typically a longer explanation--usually accompanied by graphics--of an object, mechanism, or process. You could write a description of a wind tubine, or global warming, or a shale-oil extraction
+* A set of instruction is a kind of process description, almost always accompanied by graphics, intended to enable a person to carry out a task. You could write a set of instructions for laying a brick patio or for making a playlist for your MP3 player.
 
+### Writing Definitions 
+* The world of business and industry depends on clear definitions. Suppose you learn at a job interview that the employer pay tuition and expenses for employees' job-related education. You need to understand, 1. who is an employee? Someone who work for the company, or someone who is full time? What is tuition? including laboratroy or student fees? What is job-related education? Does a course about time management qualify? What constitute education?
+* There are three basic types of definitions: parenthetical, sentence, and extended
+* A sentence defintion is more formal than a parenthetical definition. Usually follows a standard pattern: the item to be defined is placed in a category of similar items and then distinguished from them. (Hypnoanalysis+is+ a psychoanalytical technique+in which hyponosis is used to elicit information from a patient's unconscious mind)
+* Writing extended definition: useful tools: graphics, examples, partition, principle of operation, comparison and contrast, analogy, negation, etymology
+* Deciding where to place the definition: 1. in the text. usually for sentence definitions that many or most of your readers will need and for extended definitions of important terms; 2. In a marginal gloss: it is easy to see, and don't interrupt readers who don't need them; 3. in a hyperlink; 4. in a footnote: it is a logical place an occasional sentence definition or extended defintion. Be careful, footnotes can slow readers down by interrupting the flow of the discussion. If you think you will need more than one footnote for a definition on every two to three pages, consider including a glossary; 5. in a glossary: an alphabetized list of definitions--can accommodate sentence definitions and extended definitions of fewer than three or four paragraphs in one convenient location; 6. in an appendix: it is an appropriate place for an extended defintion of one page or longer, which would be cumbersome in a glossary or footnote
+
+### Writing Description
+* description is the verbal and visual representation of objects, mechanism, and processes
+* object: anything ranging from a physical site, to asynthetic artifact
+* mechanism: a synthetic object consisting of a number of identifable parts that work together
+* process: an activity that takes place over time: species evolve; steel is made; plant perform photosynthesis.
+* consider your audience and your purpose when writing description
+* There is no single structure or format used for descriptions. Because description are written for different audiences and different purposes, they can take many shapes and forms. However, the following four suggestions will guide you in most situations: 1. indicate clearly the nature and scope of the description; 2. introduce the description clearly; 3. provide appropriate detail; 4. conclude the description.
+* indicating clearly the nature and scope of the description: indicate whether the description is general or particular. For instance, a general description of an object might be entitled "description of a Minivan", and a particular description, "Description of the 2012 Honda Odyssey"
+* Introducing the description clearly: you can use graphics, what is the item or process. You can start with a sentence defintion, what is the function of the item or process. What does the item look like?Where and when does the process take place? How does the item work? How does the process work. What are the principal parts of the item. Limit your description to the principal parts. What are the principal steps of the process
+* Provide appropriate detail: treat each major part or step as a separate item
+* concluding the description: a typical description has a brief conclusion that summarizes it and prevents readers from overemphasizing the part or step discussed last. A common technique for concluding description of mechanism and of some objects is to state briefly how the parts function together. For description of more than a few pages, a discussion of the implications of the process might be appropriate. For example, a description of the Big Bang might conclude with a discussion of how the theory has been supported and challenged by recent astronomical discoveries and theories.
+
+### Writing Instructions
+SKIM 
+
+Page 588
 
 
