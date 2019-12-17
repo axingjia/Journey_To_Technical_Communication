@@ -291,6 +291,18 @@ This chapter discusses definitions, descriptions, and instructions. We need to s
 ### Writing Instructions
 SKIM 
 
-Page 588
+### Writing Manuals
+SKIM 
+
+# Making Oral Presentations
+* Experts recommend devoting 20 to 60 minutes of preparation time for each minute of the finished presentation.
+* For a 20 minute presentation, the time allotment could be like this: introduction(2min), body:first major point(4min), second major point(4min),third major point(4min), conclusion(2), question(4min)
+
+SKIM 
+
+# Connecting to the Public 
+SKIM 
+
+Done the book
 
 
